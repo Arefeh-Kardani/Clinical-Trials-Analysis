@@ -12,8 +12,6 @@ This project provides tools to fetch study data via the ClinicalTrials.gov API (
   - `extract_trials.py`: Fetches cancer-related trial data (NCT ID, Condition, Phase, etc.) and saves it for analysis.
 - `notebooks/`: Jupyter Notebooks for interactive data exploration.
   - `exploration.ipynb`: EDA on extracted clinical trials.
-- `dashboard/`: (Planned) Visualization components for reporting.
-- `sql/`: (Planned) Database schemas and integration scripts.
 - `data/`: (Local) Storage for raw and processed data (ignored by Git).
 
 ## Tech Stack
