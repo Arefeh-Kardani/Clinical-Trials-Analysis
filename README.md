@@ -1,3 +1,5 @@
+![Banner](Clinical_trial_API.png)
+
 # Clinical Trials Analysis
 
 A Python-based toolkit for extracting, analyzing, and visualizing clinical trial data from [ClinicalTrials.gov](https://clinicaltrials.gov/).
